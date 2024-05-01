@@ -2,4 +2,4 @@ Django
 dj_database_url
 djangorestframework
 gunicorn
-psycoph2
+psycopg2
