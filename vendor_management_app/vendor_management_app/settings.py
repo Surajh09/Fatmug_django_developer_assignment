@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-d(zk@-pqln&ut(kb+z02tie*lykaqsq!veyab9w+v-ve#+a68a
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["fatmug-django-developer-assignment.onrender.com", "localhost", "127.0.0.1", ""]
 
 
 # Application definition
