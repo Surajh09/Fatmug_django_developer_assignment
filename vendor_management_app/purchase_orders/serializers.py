@@ -1,8 +1,8 @@
 from rest_framework import serializers
-from .models import HistoricalPerformance
+from .models import PurchaseOrder
 
-class HistoricalPerformanceSerializer(serializers.ModelSerializer):
+class PurchaseOrderSerializer(serializers.ModelSerializer):
     class Meta:
-            model = HistoricalPerformance
-            fields = '__all__'
+        model = PurchaseOrder
+        fields = '__all__'
             
