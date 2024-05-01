@@ -1,0 +1,5 @@
+Django
+dj_database_url
+djangorestframework
+gunicorn
+psycoph2
